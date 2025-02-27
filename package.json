@@ -2,7 +2,7 @@
   "name": "youtube-clone",
   "version": "1.0.0",
   "description": "my first complex project",
-   "type": "module",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js"
@@ -14,6 +14,7 @@
   "author": "\"Siddhant Lohakar\"",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "prettier": "^3.5.2"
   }
 }
